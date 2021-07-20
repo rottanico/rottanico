@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**rottanico/rottanico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with experience in Bootstrap - JavaScript - React - Redux - Express - Sequalize - NodeJS - PostgresSQL.
 
-Here are some ideas to get you started:
+I'm looking forward to get a job where I can continue learning while working.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on henry's final proyect (e-commerce)
+- <p> <a href="https://www.canva.com/design/DAEkjS4_MBg/view" target="_blank"/>Curriculum Vitae</p>
+## a little look at my projects
+
+### Individual Project -  PokeApi
+
+<p align="left">
+  <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" />
+</p>
+
+<ul align="left">
+  <li> <a href="https://github.com/rottanico/PI-pokemon" target="_blank">Project</a></li>
+</ul>
+
+
+### Individual Project -  Countries Api
+
+<p align="left">
+  <img height="150" src="https://cdn.picpng.com/flags/countries-country-flags-globe-58974.png" />
+</p>
+
+<ul align="left">
+  <li> <a href="https://github.com/rottanico/PI-Countries" target="_blank">Project</a></li>
+</ul>
+
+
+<h3 align="left">📫 How to reach me?</h3>
+<ul align="left">
+  <li><p>🤝 <a href="https://www.linkedin.com/in/nicolas-rotta-509745213" target="_blank">My linkedin profile</a></p></li>
+  <li><p>📧 <a href="mailto:rottanico@gmail.com" target="_blank">rottanico@gmail.com</a></p></li>
+</ul>
