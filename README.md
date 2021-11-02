@@ -4,7 +4,6 @@ I'm a Full Stack Developer with experience in Bootstrap - JavaScript - React - R
 
 I'm looking forward to get a job where I can continue learning while working.
 
-- 🔭 I’m currently working on henry's final proyect (e-commerce)
 - <p> <a href="https://www.canva.com/design/DAEkjS4_MBg/view" target="_blank"/>Curriculum Vitae</p>
 ## a little look at my projects
 
